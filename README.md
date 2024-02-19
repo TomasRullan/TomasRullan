@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @TomasRullan
-- 👀 I’m interested in ... learning all of coding 
-- 🌱 I’m currently learning ... how to interact with git hub and creat a website.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... tomasrullan@yahoo.com
+- 👋 Hi, I’m Tomas Rullan
+- 👀 I’m interested in ... creating and buliding useful websites 
+- 🌱 I’m currently learning ... how to advance my programming skills 
+- 💞️ I’m looking to collaborate on ... on anything i enjoy working with outhes to see what we can come up with as a team.
+- 📫 How to reach me ... TomasRullan@yahoo.com
 
 <!---
 TomasRullan/TomasRullan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
