@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tomas Rullan
 - 👀 I’m interested in ... creating and buliding useful websites 
 - 🌱 I’m currently learning ... how to advance my programming skills 
-- 💞️ I’m looking to collaborate on ... on anything i enjoy working with outhes to see what we can come up with as a team.
+- 💞️ I’m looking to collaborate on ... on anything i enjoy working with others to see what we can come up with as a team.
 - 📫 How to reach me ... TomasRullan@yahoo.com
 
 <!---
